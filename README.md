@@ -32,7 +32,7 @@ Mentor: Ritika Bisht Ma'am
 
 👩‍💻 Author :
 Developed by : Divya Agarwal
-Exploring Python through fun, hands-on projects that make learning interactive and colorful!
+- Exploring Python through fun, hands-on projects that make learning interactive and colorful!
 
 🤝 Contributions :
 If you have ideas to make it better or find any issues,
