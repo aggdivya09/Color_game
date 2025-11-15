@@ -38,3 +38,5 @@ Developed by : Divya Agarwal
 If you have ideas to make it better or find any issues,
 feel free to help! You can message, suggest changes, or add your own features.
 Let's grow and learn together 🚀
+
+[![Download](https://img.shields.io/badge/Download-GitHub%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/aggdivya09/Color_game/releases)
