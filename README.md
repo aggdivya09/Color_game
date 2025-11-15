@@ -40,3 +40,12 @@ feel free to help! You can message, suggest changes, or add your own features.
 Let's grow and learn together 🚀
 
 [![Download](https://img.shields.io/badge/Download-GitHub%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/aggdivya09/Color_game/releases)
+
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-brightgreen?style=for-the-badge&logo=github)](https://github.com/aggdivya09/Color_game/archive/refs/heads/main.zip)
+
+[![GitHub release](https://img.shields.io/github/v/release/aggdivya09/Color_game?style=flat-square)](https://github.com/aggdivya09/Color_game/releases/latest)
+
+[![Downloads](https://img.shields.io/github/downloads/aggdivya09/Color_game/total?style=flat-square)](https://github.com/aggdivya09/Color_game/releases)
+
+[![Asset downloads](https://img.shields.io/github/downloads/aggdivya09/Color_game/Color_game-v1.0.zip?style=flat-square)](https://github.com/aggdivya09/Color_game/releases)
+
